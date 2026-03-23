@@ -5,6 +5,6 @@
 </div>
 
 ## 💀 Current Status
-Hello! I am currently away due to relationship problems. This readme is outdated and i will not be coming back at the moment! Thank you for understanding!
+Hello! I am currently away due to relationship problems. This readme is outdated and i will not be coming back at the moment. Thank you for understanding!\n
 Coming soon;
 - RedLineStealer
