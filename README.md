@@ -64,9 +64,9 @@ And yes, I have a wife and I love her so much <3
 ---
 
 ## Status
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redlinestealerrealop&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redlinestealerrealop&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redlinestealerrealop&layout=compact&langs_count=16&theme=dark&hide_border=true"/>
+</div>
 
 
