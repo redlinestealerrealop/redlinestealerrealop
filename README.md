@@ -10,7 +10,6 @@ am an independent security researcher.
 I am 16 years old and currently learning more about coding. I matain and develop Dating Utils and Unboyfriend. I also have been training AIs for 1 month now. I live in the state of Texas (been there for 14 years now), and I mostly use a phone to develop, code, ship and greenlight all my projects.
 
 
-And yes, I have a wife and I love her so much <3
 
 
 
