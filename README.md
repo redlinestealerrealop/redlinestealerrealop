@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,rust,cpp,g,java,kt&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,rust,cpp,g,java,kotlin&theme=dark" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,sass,docker,kubernetes&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,sass,docker,kubernetes,maven,gradle&theme=dark" />
   </a>
 </p>
 
