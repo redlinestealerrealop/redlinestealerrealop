@@ -5,12 +5,14 @@
 
 | Domain | Duration |
 |--------|----------|
+| Java & Kotlin internals | 2 weeks
 | Android internals & kernel | 3 years |
 | Binder, AIDL, HIDL & Android IPC | 2 years |
-| TEE / Secure Enclave hardware security | 3 months |
-| Low-level hardware (CPU, GPU, eMMC) | 2 months |
+| TEE / Secure Enclave hardware security | 4 months |
+| Low-level hardware (CPU, GPU, eMMC) | 3 months |
 | AI/human pattern detection | 1 year |
 | General programming | 5 years |
+
 
 ---
 
