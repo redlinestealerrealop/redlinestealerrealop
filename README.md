@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,rust,cpp,g,java,kotlin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,rust,cpp,go,java,kotlin&theme=dark" />
   </a>
 </p>
 
