@@ -41,7 +41,9 @@
 ---
 
 # I love Zavati <3
-She has access to my account, so to verify that projects are created by me, ill **"be signing them with my one GPG private key.** Thank you!
+She has access to my account, so to verify that projects are created by me, ill **"be signing them with my own GPG private key.**
+
+No, she is not a On-Account Contributor. Anyone that thinks that this account is not safe for contributions should be worry free.
 
 
 ## Status
