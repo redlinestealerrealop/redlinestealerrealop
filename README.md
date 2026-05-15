@@ -40,7 +40,9 @@
 
 ---
 
-# I love Zavati Elwess <3
+# I love Zavati <3
+She has access to my account, so to verify that projects are created by me, ill **"be signing them with my one GPG private key.** Thank you!
+
 
 ## Status
 
