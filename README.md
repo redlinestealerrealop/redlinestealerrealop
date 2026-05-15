@@ -40,6 +40,8 @@
 
 ---
 
+# I love Zavati Elwess <3
+
 ## Status
 
 <div align="center">
@@ -47,4 +49,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redlinestealerrealop&layout=compact&langs_count=16&theme=dark&hide_border=true"/>
 </div>
 
-# I love Zavati Elwess <3
