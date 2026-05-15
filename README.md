@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,sass,docker,kubernetes,maven,gradle&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,sass,docker,kubernetes,maven,gradle,haskell&theme=dark" />
   </a>
 </p>
 
